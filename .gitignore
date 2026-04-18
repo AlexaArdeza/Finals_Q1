@@ -1,0 +1,16 @@
+[wb]in/
+[Oo]bj/
+[Ll]og/
+[Tt]est[Rr]esults/
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+.vscode/
+.user.settings
+bin/
+obj/
+appsettings.json
+!appsettings.json
+appsettings.Development.json
+!appsettings.Development.json
